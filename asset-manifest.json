@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.81ab260e.css",
-    "main.js": "/static/js/main.250ddb1f.js",
+    "main.js": "/static/js/main.eb138075.js",
     "static/js/787.9b74c651.chunk.js": "/static/js/787.9b74c651.chunk.js",
     "static/media/portada.jpg": "/static/media/portada.8ba6d0c0ffe58a72ca40.jpg",
     "static/media/imagenFinal.jpg": "/static/media/imagenFinal.563ecd341bbe244287a7.jpg",
     "static/media/Caveat-VariableFont_wght.ttf": "/static/media/Caveat-VariableFont_wght.834178e16d110b21c85e.ttf",
+    "static/media/fireworks.gif": "/static/media/fireworks.bf6520e016e836e8bce8.gif",
     "static/media/fondoContador.jpeg": "/static/media/fondoContador.1d8216c78bee0d8e880f.jpeg",
     "static/media/wedshoots.png": "/static/media/wedshoots.8f454f40613ab1cc8f82.png",
     "static/media/RougeScript-Regular.ttf": "/static/media/RougeScript-Regular.8eeac8e7a770a22c574d.ttf",
     "index.html": "/index.html",
     "main.81ab260e.css.map": "/static/css/main.81ab260e.css.map",
-    "main.250ddb1f.js.map": "/static/js/main.250ddb1f.js.map",
+    "main.eb138075.js.map": "/static/js/main.eb138075.js.map",
     "787.9b74c651.chunk.js.map": "/static/js/787.9b74c651.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81ab260e.css",
-    "static/js/main.250ddb1f.js"
+    "static/js/main.eb138075.js"
   ]
 }
